@@ -1,1 +1,12 @@
 @import "tailwindcss";
+
+@theme {
+  --color-night: #16130F;
+  --color-den: #211C16;
+  --color-earth: #3A3228;
+  --color-back: #A39A88;
+  --color-fur: #BF8A47;
+  --color-amber: #E3B04B;
+  --color-sand: #E8D9BC;
+  --color-steel: #5C6B73;
+}
